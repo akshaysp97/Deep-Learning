@@ -1,0 +1,2 @@
+# Multilayer perceptron (MLP) deep neural network
+In this project, we train an MLP to classify MNIST, then proceed to train an MLP using various constraints. In addition to this, we train an MLP on Binary data pertaining to the category Human/Machine.
